@@ -1,0 +1,11 @@
+Opis do wykresu 'Porównanie równania Gompertza i równania Verhulsta':
+	Wzrost szybciej pojawia się we wzorze Gompertza.
+	Wzór Gompertza wskazuje na szybszy wzrost niż niż ten we wzorze Verhulsta.
+	
+Opis do wykresów 2 i 3 ('Zdefiniowane wartości'):
+	Wykres 2 -> Populacje rosną do momentu osiągnięcia stanu równowagi, oba gatunku przeżywają.
+	Wykres 3 -> Populacje prawie od razu maleją. N2 wymiera prawie od razu a w N1 następuje skurczanie populacji.
+
+Opis do wykresu 'Wykres fazowy z trzema krzywymi':	
+	Populacje obu gatunków maleją na samym początku niezależnie od początkowej populacji gatunku N1.
+
